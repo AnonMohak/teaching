@@ -1,7 +1,9 @@
 //var, let , const
+//Hoisting: variables and functions declarations are conceptuslly moved to 
+//the top of their scope. Because of this functions can be called and 
+//variables can be used before they are declared.
 
-
-//VAR 
+////VAR 
 //Accessible within the function where it's defined.
 //Moves to the top of the function or global scope, but is initialized as undefined.
 //Can be redeclared and reassigned.
